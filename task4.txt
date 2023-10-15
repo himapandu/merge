@@ -1,4 +1,9 @@
 task 4
 file 4
+<<<<<<< HEAD
 txt 4
 nano 4
+=======
+varsha txt 4
+nano txt 4
+>>>>>>> varsha
