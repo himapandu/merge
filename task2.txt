@@ -1,3 +1,4 @@
 task 2
 file 2
 txt 2
+nano 2
