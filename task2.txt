@@ -1,9 +1,9 @@
 task 2
 file 2
-<<<<<<< HEAD
+
 txt 2
 nano 2
-=======
+
 varsha txt 2
 nano txt 2
->>>>>>> varsha
+
