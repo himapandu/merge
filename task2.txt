@@ -1,3 +1,4 @@
 task 2
 file 2
 varsha txt 2
+nano txt 2
